@@ -5,6 +5,10 @@
 
 <img src="https://img2022.cnblogs.com/blog/561794/202203/561794-20220301000221290-1571241403.jpg" />
 
+效果预览如下 <br/>
+
+<a href="https://kongzhi0707.github.io/echarts4-fly-line-graph/index.html" target="_blank">https://kongzhi0707.github.io/echarts4-fly-line-graph/index.html</a> <br/>
+
 实现echarts飞线图的灵感是来自网上的demo，比如 https://github.com/guohaining/echarts_map 中的 china_lines.html中的demo配置，然后根据自己的需求改善配置变成自己的需求。
 
 china_lines.html 的代码如下：
